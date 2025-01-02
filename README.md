@@ -1,0 +1,1 @@
+This repository contains a PHP example demonstrating a common error in recursive functions. The bug involves incorrect handling of error strings within a nested array. The solution provides a corrected version of the function.
